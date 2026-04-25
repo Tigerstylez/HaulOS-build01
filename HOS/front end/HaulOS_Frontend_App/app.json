@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "HaulOS Frontend",
+    "slug": "haulos-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.haulos.frontend"
+    },
+    "ios": {
+      "bundleIdentifier": "com.haulos.frontend"
+    }
+  }
+}
